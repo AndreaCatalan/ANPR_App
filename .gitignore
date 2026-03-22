@@ -1,1 +1,15 @@
-ANPR_app/anpr-backend/be
+
+__pycache__/
+*.pyc
+
+
+*.h5
+*.pt
+*.weights
+
+
+venv/
+.env
+
+.DS_Store
+Thumbs.db
