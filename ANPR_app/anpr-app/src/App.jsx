@@ -71,7 +71,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Automatic Number Plate Recognition System</h1>
+      <h1>CNN–Vision Transformer Hybrid Model for Automatic Number Plate Recognition</h1>
+      <h3>Capstone Project</h3>
+      <h4>by: Anika Manucom, Andrea Catalan, Ashley Lavandero</h4>
+      <a href="https://anpr-instructions.netlify.app" target='_blank'> Instructions Here! </a>
 
       <div className="inputHolder">
         <input

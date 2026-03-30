@@ -9,10 +9,24 @@
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
 }
 
+.App{
+  position: fixed;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 1000;
+}
+
 .App h1 {
   color: #2c3e50;
   margin-bottom: 2rem;
   font-size: 2rem;
+}
+
+.App a{
+  display: inline-block;
+  margin: 12px 0;
 }
 
 .inputHolder {
